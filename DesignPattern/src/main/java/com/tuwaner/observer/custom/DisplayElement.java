@@ -1,4 +1,4 @@
-package com.tuwaner.observer.swing.custom;
+package com.tuwaner.observer.custom;
 
 /**
  * Created by vincen on 2016/4/29.

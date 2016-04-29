@@ -1,7 +1,7 @@
-package com.tuwaner.observer.swing.custom.impl;
+package com.tuwaner.observer.custom.impl;
 
-import com.tuwaner.observer.swing.custom.Observer;
-import com.tuwaner.observer.swing.custom.Subject;
+import com.tuwaner.observer.custom.Observer;
+import com.tuwaner.observer.custom.Subject;
 
 import java.util.ArrayList;
 

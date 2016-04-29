@@ -1,7 +1,7 @@
-package com.tuwaner.observer.swing.custom;
+package com.tuwaner.observer.custom;
 
-import com.tuwaner.observer.swing.custom.impl.CurrentConditionsDisplay;
-import com.tuwaner.observer.swing.custom.impl.WeatherData;
+import com.tuwaner.observer.custom.impl.CurrentConditionsDisplay;
+import com.tuwaner.observer.custom.impl.WeatherData;
 
 /**
  * 气象站主类
@@ -12,6 +12,6 @@ public class WeatherStation {
         WeatherData weatherData = new WeatherData();
         CurrentConditionsDisplay currentConditionsDisplay = new CurrentConditionsDisplay(weatherData);
         weatherData.setMeasurements(80, 60, 30.4f);
-        currentConditionsDisplay.display();
+        //currentConditionsDisplay.display();
     }
 }

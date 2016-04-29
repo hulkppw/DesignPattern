@@ -1,4 +1,4 @@
-package com.tuwaner.observer.swing.custom;
+package com.tuwaner.observer.custom;
 
 /**
  * 观察者接口
