@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366c3346-0a90-4adc-a5a8-a897442c5a90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/DuckTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/MallardDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/Turkey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/TurkeyAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/WildTurkey.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Beverage.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Beverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/CondimentDecorator.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/CondimentDecorator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/DarkRoast.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/DarkRoast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Decat.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Decat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Espresso.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Espresso.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/HouseBlend.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/HouseBlend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Mocha.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Mocha.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/StarBuzzCoffee.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/StarBuzzCoffee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/input/InputClass.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/input/InputClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/DisplayElement.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/DisplayElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Observer.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Observer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Subject.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Subject.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/WeatherStation.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/WeatherStation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/WeatherData.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherData.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherStation.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherStation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$AngelListener.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$AngelListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$DevilListener.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$DevilListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/Duck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/FlyBehavior.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/FlyBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/MainTest.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/MainTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/ModelDuck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/ModelDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/QuackBehavior.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/QuackBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyNoWay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyNoWay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyWithWings.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyWithWings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/MuteQuack.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/MuteQuack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Quack.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Quack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Squeak.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Squeak.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/test-classes/com/tuwaner/AppTest.class" afterPath="$PROJECT_DIR$/DesignPattern/target/test-classes/com/tuwaner/AppTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" afterPath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/pom.xml" afterPath="$PROJECT_DIR$/DesignPattern/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/strategy/MainTest.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/strategy/MainTest.java" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1118,7 +1074,7 @@
       <workItem from="1463314076886" duration="475000" />
       <workItem from="1463316636250" duration="2725000" />
       <workItem from="1463321619490" duration="23000" />
-      <workItem from="1463400455388" duration="2914000" />
+      <workItem from="1463400455388" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1463314315354</created>
@@ -1141,11 +1097,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463409270088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adapter">
+      <created>1463410605483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1463410605483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43683000" />
+    <option name="totallyTimeSpent" value="43744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
