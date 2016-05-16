@@ -4,6 +4,7 @@ import com.tuwaner.strategy.impl.FlyNoWay;
 import com.tuwaner.strategy.impl.MuteQuack;
 import org.junit.Test;
 
+
 /**
  * 测试类
  * Created by vincen on 2016/4/28.
