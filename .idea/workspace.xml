@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="366c3346-0a90-4adc-a5a8-a897442c5a90" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Template/BeverageTestDrive.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Template/BeverageTestDrive.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -37,7 +36,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="465">
-                <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+                <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -984,7 +983,7 @@
       <workItem from="1463321619490" duration="23000" />
       <workItem from="1463400455388" duration="3092000" />
       <workItem from="1463486484394" duration="4076000" />
-      <workItem from="1463591930899" duration="52000" />
+      <workItem from="1463591930899" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1463314315354</created>
@@ -1021,11 +1020,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463494221507</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="iterator">
+      <created>1463592013811</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463592013811</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47989000" />
+    <option name="totallyTimeSpent" value="48075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -1079,7 +1085,8 @@
     <MESSAGE value="command" />
     <MESSAGE value="adapter" />
     <MESSAGE value="template" />
-    <option name="LAST_COMMIT_MESSAGE" value="template" />
+    <MESSAGE value="iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1494,7 +1501,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="465">
-            <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
