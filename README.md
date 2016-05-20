@@ -32,3 +32,5 @@ Java提供了观察者模式的实现，通过继承Observale类（主题类）�
 ##10.Iterator(迭代器模式)
 
 ##11.Composite(组合模式)
+
+##12.State(状态模式)
