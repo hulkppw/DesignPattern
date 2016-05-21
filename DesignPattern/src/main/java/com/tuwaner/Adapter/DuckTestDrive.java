@@ -8,6 +8,16 @@ public class DuckTestDrive {
         WildTurkey wildTurkey = new WildTurkey();
         Duck turkeyAdapter = new TurkeyAdapter(wildTurkey);
         testDuck(turkeyAdapter);
+        new Duck(){
+
+            public void quack() {
+
+            }
+
+            public void fly() {
+
+            }
+        };
     }
 
     public static void testDuck(Duck duck){
