@@ -25,4 +25,8 @@ public class PancakeHouseMenuIterator implements java.util.Iterator {
         position++;
         return item;
     }
+
+    public void remove() {
+
+    }
 }

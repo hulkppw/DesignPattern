@@ -10,14 +10,14 @@ import com.tuwaner.Iterator.MenuItem;
 public class DinerMenu implements Menu{
     static final int MAX_ITEMS = 6;
     int numberOfItems = 0;
-    MenuItem[] menuItems;
+    com.tuwaner.Iterator2.MenuItem[] menuItems;
 
     public DinerMenu(){
 
     }
 
     public void addItem(String name, String description, boolean vegeratian, double price){
-        MenuItem menuItem = new MenuItem(name, description, vegeratian, price);
+        com.tuwaner.Iterator2.MenuItem menuItem = new com.tuwaner.Iterator2.MenuItem(name, description, vegeratian, price);
         if(numberOfItems >= MAX_ITEMS){
             System.out.println("对不起菜单已经添加满了,不能继续添加");
         }else {
@@ -31,6 +31,6 @@ public class DinerMenu implements Menu{
      * @return
      */
     public java.util.Iterator createIterator(){
-        return new DinerMenuIterator(menuItems);
+        return new com.tuwaner.Iterator2.DinerMenuIterator(menuItems);
     }
 }
