@@ -2,106 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366c3346-0a90-4adc-a5a8-a897442c5a90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/CompositeIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/NullIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Waitress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/AlternatingDinerMenuIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/CafeMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/CafeMenuIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/Duck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/DuckTestDrive.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/DuckTestDrive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/MallardDuck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/MallardDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/Turkey.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/Turkey.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/TurkeyAdapter.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/TurkeyAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/WildTurkey.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/Adapter/WildTurkey.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Command.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Command.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Light.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Light.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/LightOffCommand.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/LightOffCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/LightOnCommand.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/LightOnCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/NoCommand.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/NoCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteControl.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteControl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteLoader$1.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteLoader$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteLoader.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/RemoteLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Stereo.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/Stereo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/StereoOnWithCDCommand.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/command/StereoOnWithCDCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Beverage.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Beverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/CondimentDecorator.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/CondimentDecorator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/DarkRoast.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/DarkRoast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Decat.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Decat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Espresso.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Espresso.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/HouseBlend.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/HouseBlend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Mocha.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/Mocha.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/StarBuzzCoffee.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/StarBuzzCoffee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/input/InputClass.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/decorator/input/InputClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Cheese.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Cheese.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/CheesePizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/CheesePizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ClamPizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ClamPizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Clams.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Clams.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Dough.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Dough.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/FreshClams.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/FreshClams.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Garlic.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Garlic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/MarinaraSauce.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/MarinaraSauce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Mushroom.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Mushroom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/NYPizzaIngredientFactory.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/NYPizzaIngredientFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/NYPizzaStore.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/NYPizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Onion.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Onion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Pepperoni.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Pepperoni.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Pizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/PizzaIngredientFactory.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/PizzaIngredientFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/PizzaStore.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/PizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/RedPepper.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/RedPepper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ReggianoCheese.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ReggianoCheese.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Sauce.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Sauce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/SlicedPepperoni.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/SlicedPepperoni.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ThinCrustDough.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/ThinCrustDough.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Veggies.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/abstractfactory/Veggies.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoPizzaStore.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoPizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStyleCheesePizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStyleCheesePizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStylePepperoniPizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStylePepperoniPizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStyleVeggiePizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/ChicagoStyleVeggiePizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYPizzaStore.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYPizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStyleCheesePizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStyleCheesePizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStylePepperoniPizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStylePepperoniPizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStyleVeggiePizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/NYStyleVeggiePizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/Pizza.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/PizzaStore.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/PizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/PizzaTestDrive.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/factory/factoryfunction/PizzaTestDrive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/DisplayElement.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/DisplayElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Observer.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Observer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Subject.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/Subject.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/WeatherStation.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/WeatherStation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/WeatherData.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/custom/impl/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherData.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherStation.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/javautil/WeatherStation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$AngelListener.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$AngelListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$DevilListener.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample$DevilListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/observer/swing/SwingObserverExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/singleton/Singleton.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/singleton/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/singleton/SingletonEnum.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/singleton/SingletonEnum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/Duck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/FlyBehavior.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/FlyBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/MainTest.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/MainTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/ModelDuck.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/ModelDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/QuackBehavior.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/QuackBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyNoWay.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyNoWay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyWithWings.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/FlyWithWings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/MuteQuack.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/MuteQuack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Quack.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Quack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Squeak.class" afterPath="$PROJECT_DIR$/DesignPattern/target/classes/com/tuwaner/strategy/impl/Squeak.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/target/test-classes/com/tuwaner/AppTest.class" afterPath="$PROJECT_DIR$/DesignPattern/target/test-classes/com/tuwaner/AppTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/NoquarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/WinnerState.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/DinerMenuIterator.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/DinerMenuIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/DinerMenu.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/DinerMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/PancakeHouseMenu.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/PancakeHouseMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/PancakeHouseMenuIterator.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/PancakeHouseMenuIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/Waitress.java" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/Waitress.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -134,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+              <first_editor relative-caret-position="516">
+                <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -143,152 +52,157 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuComponent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuComponent.java">
+      <file leaf-file-name="WinnerState.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/WinnerState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="377">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuItem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MenuItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-              <folding>
-                <element signature="e#1004#1005#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NullIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/NullIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DinerMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/DinerMenu.java">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <folding>
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#971#972#0" expanded="true" />
+                <element signature="e#1005#1006#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+                <element signature="e#1248#1249#0" expanded="true" />
+                <element signature="e#1288#1289#0" expanded="true" />
+                <element signature="e#1325#1326#0" expanded="true" />
+                <element signature="e#1366#1367#0" expanded="true" />
+                <element signature="e#1404#1405#0" expanded="true" />
+                <element signature="e#1439#1440#0" expanded="true" />
+                <element signature="e#1471#1472#0" expanded="true" />
+                <element signature="e#1502#1503#0" expanded="true" />
+                <element signature="e#1530#1531#0" expanded="true" />
+                <element signature="e#1567#1568#0" expanded="true" />
+                <element signature="e#1601#1602#0" expanded="true" />
+                <element signature="e#1630#1631#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldOutState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldOutState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompositeIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/CompositeIterator.java">
+      <file leaf-file-name="NoquarterState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/NoquarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            <state relative-caret-position="195">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="53" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#1004#1005#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DinerMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/DinerMenu.java">
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/HasQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="437">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Waitress.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Waitress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -320,12 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/factory/abstractfactory/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/singleton/SingletonEnum.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/Light.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/LightOffCommand.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/NoCommand.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/RemoteControl.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/Stereo.java" />
@@ -358,7 +266,6 @@
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/CafeMenuIterator.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/PancakeHouseMenuIterator.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/AlternatingDinerMenuIterator.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Waitress.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuTestDrive.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/DinerMenu.java" />
@@ -369,6 +276,15 @@
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Menu.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/NullIterator.java" />
         <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuItem.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/State.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/NoquarterState.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldState.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/WinnerState.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachineTestDrive.java" />
       </list>
     </option>
   </component>
@@ -428,6 +344,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -512,47 +429,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Iterator2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tuwaner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Composite" />
+              <option name="myItemId" value="state" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -590,29 +476,7 @@
       <recent name="$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2.0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MenuTestDrive">
-    <configuration default="false" name="StarBuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tuwaner.decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tuwaner.decorator.StarBuzzCoffee" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPattern" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
     <configuration default="false" name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -683,6 +547,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.tuwaner.Composite.MenuTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tuwaner.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tuwaner.state.GumballMachineTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1184,19 +1068,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.SwingObserverExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StarBuzzCoffee" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-      <item index="5" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="5" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StarBuzzCoffee" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1238,7 +1122,9 @@
       <workItem from="1463486484394" duration="4076000" />
       <workItem from="1463591930899" duration="252000" />
       <workItem from="1463662871631" duration="677000" />
-      <workItem from="1463756592107" duration="14562000" />
+      <workItem from="1463756592107" duration="14718000" />
+      <workItem from="1463875656428" duration="689000" />
+      <workItem from="1463876480591" duration="7537000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1463314315354</created>
@@ -1310,11 +1196,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463804704565</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="composite">
+      <created>1463831326190</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463831326190</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63428000" />
+    <option name="totallyTimeSpent" value="71810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -1328,7 +1221,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1671875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22272727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4378788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1372,7 +1265,8 @@
     <MESSAGE value="Composite" />
     <MESSAGE value="State" />
     <MESSAGE value="Iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator" />
+    <MESSAGE value="composite" />
+    <option name="LAST_COMMIT_MESSAGE" value="composite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1385,62 +1279,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/Stereo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/StereoOnWithCDCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/command/RemoteLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Adapter/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1494,7 +1332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1502,7 +1339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1510,7 +1346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1518,7 +1353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1526,7 +1360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="39" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1534,7 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1542,7 +1374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1550,7 +1381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1558,7 +1388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1566,16 +1395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1583,30 +1402,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2.0/Iterator/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2.0/Iterator/Waitress.java" />
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/PancakeHouseMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1614,7 +1417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1622,16 +1424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#534#535#0" expanded="false" />
-            <element signature="e#565#566#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1639,7 +1431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1647,9 +1438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1657,7 +1445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1665,7 +1452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1673,11 +1459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,12 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1698,9 +1473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1708,10 +1480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1719,10 +1487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1730,40 +1494,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="135">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1779,121 +1517,208 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="420">
           <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Iterator2/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="345">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="255">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="585">
           <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
-            <element signature="e#1356#1357#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/NullIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="180">
           <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/CompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
+        <state relative-caret-position="570">
           <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/Composite/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/NoquarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="53" />
           <folding>
-            <element signature="e#1004#1005#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="516">
+            <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1325#1326#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1404#1405#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1601#1602#0" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/com/tuwaner/state/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
