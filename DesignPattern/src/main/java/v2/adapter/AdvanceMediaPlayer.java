@@ -1,7 +1,8 @@
 package v2.adapter;
 
-/**
- * Created by vincen on 2018/5/27.
- */
+
 public interface AdvanceMediaPlayer {
+
+    public void playVlc(String fileName);
+    public void playMp4(String fileName);
 }

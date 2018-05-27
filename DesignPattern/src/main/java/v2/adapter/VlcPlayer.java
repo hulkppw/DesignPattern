@@ -1,7 +1,14 @@
 package v2.adapter;
 
-/**
- * Created by vincen on 2018/5/27.
- */
-public class VlcPlayer {
+
+public class VlcPlayer implements AdvanceMediaPlayer {
+    @Override
+    public void playVlc(String fileName) {
+        System.out.println("Playing vlc file. Name: "+ fileName);
+    }
+
+    @Override
+    public void playMp4(String fileName) {
+
+    }
 }

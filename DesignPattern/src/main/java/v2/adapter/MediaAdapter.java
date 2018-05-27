@@ -1,7 +1,25 @@
 package v2.adapter;
 
-/**
- * Created by vincen on 2018/5/27.
- */
-public class MediaAdapter {
+
+public class MediaAdapter implements MediaPlayer{
+
+    AdvanceMediaPlayer advanceMediaPlayer;
+
+    public MediaAdapter(String audioType){
+        if("vlc".equalsIgnoreCase(audioType)){
+            advanceMediaPlayer = new VlcPlayer();
+        }else if("mp4".equalsIgnoreCase(audioType)){
+            advanceMediaPlayer = new Mp4Player();
+        }
+
+    }
+
+    @Override
+    public void play(String audioType, String fileName) {
+        if("vlc".equalsIgnoreCase(audioType)){
+            advanceMediaPlayer.playVlc(fileName);
+        }else if("mp4".equalsIgnoreCase(audioType)){
+            advanceMediaPlayer.playMp4(fileName);
+        }
+    }
 }
